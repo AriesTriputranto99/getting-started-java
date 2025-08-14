@@ -17,6 +17,32 @@ Managed VMs on Google Cloud Platform use the [Java Servlets](http://www.oracle.c
 
 * See [CONTRIBUTING.md](CONTRIBUTING.md)
 
+* "config" : {
+       "content_type" : " json " ,
+       "insecure_ssl" : " 0 " ,
+       "url" : " https://api.github.com/repos/AriesTriputranto/start-java/hook "
+    },
+  
+     "license" : {
+       "key" : " apache-2.0 " ,
+       "name" : " Lisensi Apache 2.0 " ,
+       "spdx_id" : " Apache-2.0 " ,
+       "url" : " https://api.github.com/licenses/apache-2.0 " ,
+       "node_id" : " MDc6TGljZW5zZTI= "
+    },
+    "allow_forking" : benar ,
+     "is_template" : benar ,
+     "web_commit_signoff_required" : salah ,
+     "topik" : [
+
+    ],
+    "visibilitas" : " publik " ,
+     "cabang" : 0 ,
+     "masalah_terbuka" : 0 ,
+     "pengamat" : 0 ,
+     "cabang_default" : " master "
+  },
+
 
 ## Licensing
 
